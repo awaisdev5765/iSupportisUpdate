@@ -6,7 +6,7 @@
             <title>Version 1.2</title>
             <description>desc</description>
             <pubDate>Tue, 24 OCT 2022 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.itservicesupport" sparkle:version="1.2"
+            <enclosure url="https://itunes.apple.com/lookup?bundleId=com.isupportiOS&country=US&_cb=1698146663066486" sparkle:version="1.2"
             sparkle:os="ios" />
         </item>
     </channel>
